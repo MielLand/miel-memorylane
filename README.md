@@ -5,7 +5,7 @@
 **Memory Lane** is a FiveM script that adds immersive, nostalgic flashbacks to your RP server. Players trigger haunting memories at key locations with glitchy visuals, typewriter text, ragdoll falls, and custom audio. Boost player retention and RP depth!
 
 ## 🎥 Showcase Video
-[Watch Demo](https://www.youtube.com/watch?v=your-video-link)  
+[Watch Demo](https://youtu.be/NiTSCpE1lvA)  
 
 ## ✨ Features
 - **Location-Based Triggers**: Custom spots with radius & messages (e.g., "First arrest echoes...").
