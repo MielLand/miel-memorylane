@@ -18,7 +18,7 @@
 
 ## 📦 Installation
 1. Download & extract to `resources/[custom]`.
-2. Add `ensure memory-lane` to `server.cfg`.
+2. Add `ensure miel-memorylane` to `server.cfg`.
 3. Edit `config.lua` for spots/messages.
 4. Restart server.
 
