@@ -12,7 +12,7 @@
 - **Stunning NUI Effects**: Glitch overlays, film grain, chromatic text, pulse rings.
 - **Typewriter Animation**: Smooth, wrapping text reveal (configurable speed).
 - **Ragdoll & Audio**: Player falls + custom SFX.
-- **Configurable**: Cooldown, chance (0-100%), ESX/QBCore/Standalone compatible.
+- **Configurable**: Cooldown, chance (0-100%), standalone and compatible with any framework.
 - **Easy Setup**: Drag & drop, no database.
 - **Open Source**: This script is completely open source.
 
