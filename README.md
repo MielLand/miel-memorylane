@@ -1,8 +1,8 @@
-# Memory Lane
+# Miel Memory Lane
 
 [![Pay What You Want](https://img.shields.io/badge/Pay%20What%20You%20Want-%F0%9F%92%B0-green.svg)](https://ko-fi.com/miel_land)
 
-**Memory Lane** is a FiveM script that adds immersive, nostalgic flashbacks to your RP server. Players trigger haunting memories at key locations with glitchy visuals, typewriter text, ragdoll falls, and custom audio. Boost player retention and RP depth!
+**Miel Memory Lane** is a FiveM script that adds immersive, nostalgic flashbacks to your RP server. Players trigger haunting memories at key locations with glitchy visuals, typewriter text, ragdoll falls, and custom audio. Boost player retention and RP depth!
 
 ## 🎥 Showcase Video
 [Watch Demo](https://youtu.be/NiTSCpE1lvA)  
