@@ -1,2 +1,51 @@
-# Memory-Lane
-Unique Memory Lane Script for FiveM
+# Memory Lane
+
+[![Pay What You Want](https://img.shields.io/badge/Pay%20What%20You%20Want-%F0%9F%92%B0-green.svg)](https://ko-fi.com/miel_land)
+
+**Memory Lane** is a FiveM script that adds immersive, nostalgic flashbacks to your RP server. Players trigger haunting memories at key locations with glitchy visuals, typewriter text, ragdoll falls, and custom audio. Boost player retention and RP depth!
+
+## 🎥 Showcase Video
+[Watch Demo](https://www.youtube.com/watch?v=your-video-link)  
+*(Triggers at Legion Square, PD, Desert & more!)*
+
+## ✨ Features
+- **Location-Based Triggers**: Custom spots with radius & messages (e.g., "First arrest echoes...").
+- **Stunning NUI Effects**: Glitch overlays, film grain, chromatic text, pulse rings.
+- **Typewriter Animation**: Smooth, wrapping text reveal (configurable speed).
+- **Ragdoll & Audio**: Player falls + custom SFX.
+- **Configurable**: Cooldown, chance (0-100%), ESX/QBCore/Standalone compatible.
+- **Easy Setup**: Drag & drop, no database.
+- **Open Source**: This script is completely open source.
+
+## 📦 Installation
+1. Download & extract to `resources/[custom]`.
+2. Add `ensure memory-lane` to `server.cfg`.
+3. Edit `config.lua` for spots/messages.
+4. Restart server.
+
+**Test in-game**: Enter a spot—watch the magic!
+
+## ⚙️ Config Example
+```lua
+Config.MemorySpots = {
+    {coords = vector3(213.5, -810.1, 30.7), radius = 5.0, message = "Chaos at Legion Square..."}
+}
+Config.Chance = 100  -- Guaranteed trigger
+Config.Cooldown = 60 -- 1 min between
+```
+
+## 💰 Pay What You Want
+- **Free Forever**: Full script here on GitHub.
+- **Support the Dev**: [Ko-Fi](https://ko-fi.com/miel_land) – Any support to me would be greatly appreciated.
+- **Why Donate?** Funds new features (e.g., player-specific memories). Every $ helps!
+
+## 🛠️ Support
+- **Issues**: [GitHub Issues](https://github.com/yourusername/memory-lane/issues).
+- **Discord**: [Join Server](https://discord.gg/your-discord).
+- **Custom Requests**: DM for paid tweaks.
+
+**Support greatly appreciated!** ⭐ Star this repo, share with server owners, or tip via Ko-fi. Let's make RP epic! 🚀
+
+---
+
+*Made with ❤️ by Miel | Version 1.0.0 |*
