@@ -23,7 +23,7 @@
 3. Edit `config.lua` for spots/messages.
 4. Restart server.
 
-**Test in-game**: Enter a spot—watch the magic!
+**Test in-game**: Enter a spot.
 
 ## ⚙️ Config Example
 ```lua
