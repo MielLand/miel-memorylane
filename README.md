@@ -37,12 +37,11 @@ Config.Cooldown = 60 -- 1 min between
 ## 💰 Pay What You Want
 - **Free Forever**: Full script here on GitHub.
 - **Support the Dev**: [Ko-Fi](https://ko-fi.com/miel_land) – Any support to me would be greatly appreciated.
-- **Why Donate?** Funds new features (e.g., player-specific memories). Every $ helps!
+- **Why Donate?** Funds new features and more free unique scripts (Every $ helps! :))
 
 ## 🛠️ Support
-- **Issues**: [GitHub Issues](https://github.com/yourusername/memory-lane/issues).
-- **Discord**: [Join Server](https://discord.gg/your-discord).
-- **Custom Requests**: DM for paid tweaks.
+- **Issues**: [GitHub Issues](https://github.com/MielLand/miel-memorylane/issues).
+- **Discord**: [Join Server](https://discord.gg/uCydYa9s3T). (Join for coupons, discounts, giveaways and more!)
 
 **Support greatly appreciated!** ⭐ Star this repo, share with server owners, or tip via Ko-fi. Let's make RP epic! 🚀
 
