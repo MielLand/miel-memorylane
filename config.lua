@@ -1,8 +1,8 @@
 Config = {}
 
 -- General
-Config.Cooldown = 1 -- Seconds between memories
-Config.Chance = 100 -- meaning 10 percent chance it happens once player entered radius
+Config.Cooldown = 60 -- Seconds between memories
+Config.Chance = 20 -- meaning 10 percent chance it happens once player entered radius
 -- Default random lines
 Config.DefaultMessages = {
     "You feel a strange sense of nostalgia...",
@@ -19,3 +19,4 @@ Config.MemorySpots = {
     {coords = vector3(1854.1, 3683.5, 34.2), radius = 6.0, message = "The desert whispers back your first arrest..."},
     {coords = vector3(440.8, -981.9, 30.6), radius = 6.0, message = "You recall stepping into the PD for the very first time."}
 }
+
