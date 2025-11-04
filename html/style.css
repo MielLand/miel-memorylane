@@ -35,7 +35,6 @@ body {
     opacity: 1;
 }
 
-/* Film grain effect */
 .film-grain {
     position: absolute;
     top: 0;
@@ -131,7 +130,6 @@ body {
     margin: 0 auto 20px;
 }
 
-/* Memory metadata */
 .memory-meta {
     font-size: 0.9em;
     color: rgba(255, 255, 255, 0.6);
@@ -154,7 +152,6 @@ body {
     }
 }
 
-/* Glitch bars for visual effect */
 .glitch-bar {
     position: absolute;
     width: 100%;
@@ -239,7 +236,6 @@ body {
     }
 }
 
-/* Responsive design */
 @media (max-width: 768px) {
     .memory-text {
         font-size: 1.4em;
@@ -273,4 +269,5 @@ body {
 @keyframes cursorBlink {
     0%, 50% { border-color: rgba(255, 255, 255, 0.8); }
     51%, 100% { border-color: transparent; }
+
 }
