@@ -6,7 +6,6 @@
 
 ## 🎥 Showcase Video
 [Watch Demo](https://www.youtube.com/watch?v=your-video-link)  
-*(Triggers at Legion Square, PD, Desert & more!)*
 
 ## ✨ Features
 - **Location-Based Triggers**: Custom spots with radius & messages (e.g., "First arrest echoes...").
