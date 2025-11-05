@@ -35,7 +35,7 @@ Config.Cooldown = 60 -- 1 min between
 
 ## 💰 Pay What You Want
 - **Free Forever**: Full script here on GitHub.
-- **Support the Dev**: [Ko-Fi](https://ko-fi.com/miel_land) – Any support to me means the world to me, truly.
+- **Support the Dev**: [Ko-Fi](https://ko-fi.com/miel_land) – Any support to me means the world, truly.
 - **Why Donate?** Funds new features and more free unique scripts (Every $ helps! :))
 
 ## 🛠️ Support
