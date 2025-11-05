@@ -43,7 +43,7 @@ Config.Cooldown = 60 -- 1 min between
 - **Discord**: [Join Server](https://discord.gg/uCydYa9s3T). (Join for coupons, discounts, giveaways and more!)
 
 **Support greatly appreciated!** ⭐ Star this repo, share with server owners, or tip via Ko-fi. Let's make RP epic! 🚀**
-
+---
 **Join the discord and tell me your script ideas you want me to bring to life! At 100 members i will release another free script :)**
 ---
 
